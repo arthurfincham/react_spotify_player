@@ -1,0 +1,52 @@
+
+/** Now Playing **/
+
+.now-playing__name {
+  font-size: 1.5em;
+  margin: 0 auto;
+  font-family: "Seagram";
+  white-space: nowrap;
+}
+
+.now-playing__artist {
+  margin-bottom: 1em;
+  margin: 0 auto;
+}
+
+.now-playing__status {
+  margin-bottom: 1em;
+}
+
+.now-playing__img {
+  margin: 0 auto;
+  text-align: right;
+  width: 45%;
+  margin-bottom: 3vh;
+}
+
+.now-playing__img img {
+  max-width: 80vmin;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.now-playing__side {
+  margin: 0 auto;
+  width: 90%;
+}
+
+/** Progress **/
+
+.progress {
+  border: 1px solid black;
+  height: 6px;
+  border-radius: 3px;
+  overflow: hidden;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.progress__bar {
+  background-color: black;
+  height: 6px;
+}
