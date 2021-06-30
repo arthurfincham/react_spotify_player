@@ -13,6 +13,6 @@ Code is mostly as instructed, but I added some custom **CSS**.
 <h3>:link: Links</h3>
 
 <ul>
-  <li></li><a href="https://levelup.gitconnected.com/how-to-build-a-spotify-player-with-react-in-15-minutes-7e01991bc4b6">Original Article on <i>gitconnected</i></a></li>
+  <li><a href="https://levelup.gitconnected.com/how-to-build-a-spotify-player-with-react-in-15-minutes-7e01991bc4b6">Original Article on <i>gitconnected</i></a></li>
   <li><a href="https://github.com/JoeKarlsson/react-spotify-player">Repo containing source code</a></li>
 </ul>
