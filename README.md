@@ -4,6 +4,8 @@
 ![](https://img.shields.io/github/languages/count/arthurfincham/react_spotify_player)
 ![](https://img.shields.io/github/languages/code-size/arthurfincham/react_spotify_player)
 
+https://arthurfincham.github.io/react_spotify_player/
+
 <h3>About</h3>
 
 App made using a tutorial by [@JoeKarlsson](https://github.com/JoeKarlsson).
