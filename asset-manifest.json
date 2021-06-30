@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react_spotify_player/static/css/main.908fcc6c.chunk.css",
+    "main.js": "/react_spotify_player/static/js/main.3b71e472.chunk.js",
+    "main.js.map": "/react_spotify_player/static/js/main.3b71e472.chunk.js.map",
+    "runtime-main.js": "/react_spotify_player/static/js/runtime-main.2d45caeb.js",
+    "runtime-main.js.map": "/react_spotify_player/static/js/runtime-main.2d45caeb.js.map",
+    "static/js/2.647ddfd7.chunk.js": "/react_spotify_player/static/js/2.647ddfd7.chunk.js",
+    "static/js/2.647ddfd7.chunk.js.map": "/react_spotify_player/static/js/2.647ddfd7.chunk.js.map",
+    "static/js/3.7ad40bbe.chunk.js": "/react_spotify_player/static/js/3.7ad40bbe.chunk.js",
+    "static/js/3.7ad40bbe.chunk.js.map": "/react_spotify_player/static/js/3.7ad40bbe.chunk.js.map",
+    "index.html": "/react_spotify_player/index.html",
+    "static/css/main.908fcc6c.chunk.css.map": "/react_spotify_player/static/css/main.908fcc6c.chunk.css.map",
+    "static/js/2.647ddfd7.chunk.js.LICENSE.txt": "/react_spotify_player/static/js/2.647ddfd7.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react_spotify_player/static/media/Seagram_tfb.7efd43ff.ttf",
+    "static/media/logo.6ce24c58.svg": "/react_spotify_player/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d45caeb.js",
+    "static/js/2.647ddfd7.chunk.js",
+    "static/css/main.908fcc6c.chunk.css",
+    "static/js/main.3b71e472.chunk.js"
+  ]
+}
