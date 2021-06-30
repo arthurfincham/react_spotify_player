@@ -12,6 +12,12 @@ App made using a tutorial by [@JoeKarlsson](https://github.com/JoeKarlsson).
 
 Code is mostly as instructed, but I added some custom **CSS**.
 
+<h3>Problems</h3>
+
+Took a while to deploy the site with GitHub pages. The index.html file is within a subdirectory, but when I moved it to the root the program wouldn't build.
+
+This [stackoverflow thread](https://stackoverflow.com/questions/25320356/can-i-have-my-github-pages-index-html-in-a-subfolder-of-the-repository) suggested creating a dummy index.html file and it worked. 
+
 <h3>:link: Links</h3>
 
 <ul>
